@@ -1,0 +1,17 @@
+graph abstract {
+nodo_0->nodo_3 peso 9;
+nodo_0->nodo_7 peso 8;
+nodo_0->nodo_8 peso 5;
+nodo_1->nodo_5 peso 6;
+nodo_1->nodo_9 peso 9;
+nodo_2->nodo_3 peso 6;
+nodo_2->nodo_4 peso 7;
+nodo_2->nodo_6 peso 4;
+nodo_2->nodo_7 peso 1;
+nodo_3->nodo_5 peso 1;
+nodo_3->nodo_6 peso 2;
+nodo_3->nodo_7 peso 4;
+nodo_4->nodo_7 peso 1;
+nodo_5->nodo_9 peso 7;
+nodo_7->nodo_8 peso 6;
+}
